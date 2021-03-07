@@ -10,7 +10,7 @@ class DisappointmentPanda {
        $this->advice[] = 'Life is essentially an endless series of problems. The solution to one problem is merely the creation of the next one. Don\'t hope for a life without problems. Instead, hope for a life full of good problems.';
        $this->advice[] = 'Problems never stop, they merely get exchanged and/or upgraded.';
        $this->advice[] = 'Happiness comes from solving problems. True happiness occurs only when you find the problems you enjoy having and enjoy solving.';
-       $this->advice[] = 'Happiness requires struggle. It grows from problems.';
+       $this->advice[] = 'Happines requires struggle. It grows from problems.';
    }
 
    public function getAdvice(){
